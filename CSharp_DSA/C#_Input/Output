@@ -1,0 +1,9 @@
+using System;
+
+namespace Write{
+    class Input{
+        public static void Main(string[] args){
+            Console.WriteLine("C# is badass.");
+        }
+    }
+}
