@@ -15,3 +15,9 @@ class Solution
             //Your code here
         }
     }
+
+// Pattern-Output if n = 3;
+
+//  * * *
+//  * * *
+//  * * *
